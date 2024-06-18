@@ -1,10 +1,6 @@
-import math
+mercedes = 150_000
+rolls_royce = 400_000
+vybava = 50_000
 
-print("tisk")
-print(5)
-
-
-class A:
-    pass
-
-print(5)
+sleva_merc = 5_000
+cena_2_merc = (mercedes, * 2,)
